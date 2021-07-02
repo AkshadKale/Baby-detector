@@ -1,0 +1,15 @@
+.heading{
+    margin-top: 0%;
+    font-size: 21px;
+    width: 100%;
+}
+
+body{
+    background-color: blue;
+}
+
+canvas{
+    border-radius: 10%;
+    border : 5px solid white;
+}
+
